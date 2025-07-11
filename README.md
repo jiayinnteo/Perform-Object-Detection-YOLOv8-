@@ -1,4 +1,4 @@
-# Perform-Object-Detection-YOLOv8-
+# Perform Object Detection YOLOv8
 
 This project demonstrates the use of the YOLOv8 (You Only Look Once version 8) deep learning model for real-time object detection, specifically focusing on identifying birds within an image. The model is pre-trained on the COCO dataset, which supports detection of 80 common object categories.
 
