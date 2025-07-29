@@ -1,9 +1,9 @@
-#Purpose and Learning Outcomes
+# Purpose and Learning Outcomes
 
-###Purpose of the Project
+### Purpose of the Project
 The purpose of this project is to apply pre-trained object detection models, specifically YOLOv8, to analyze visual data and detect relevant objects within an image. By leveraging computer vision, this project enables automatic identification of various objects such as birds, airplanes, and other entities from photographic input. The key objective is to demonstrate the practical application of AI vision models in real-world use cases such as wildlife monitoring, drone surveillance, or automated labeling systems.
 
-###Learning Outcomes
+### Learning Outcomes
 Upon completing this project, the following learning outcomes were achieved:
 
 Familiarization with YOLOv8 Architecture
@@ -17,7 +17,7 @@ Practiced using matplotlib and OpenCV for clear visualization of object detectio
 Python Scripting & Colab Usage
 Improved Python coding proficiency within the Google Colab environment, including integrating packages like ultralytics, opencv-python, and matplotlib.
 
-##Recommendations / Enhancements
+## Recommendations / Enhancements
 
 | **Recommendation**                                    | **Description**                                                                              | **Purpose**                                                        |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
